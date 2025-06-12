@@ -1,0 +1,36 @@
+{
+  "hotels": [
+    {
+      "id": "1",
+      "name": "Machu Picchu Sanctuary Lodge",
+      "description": "A unique hotel located at the entrance of Machu Picchu, offering breathtaking views and luxury amenities.",
+      "imageUrl": "https://img.belmond.com/f_auto/t_2580x3219/photos/mps/mps-din-breakfast09.jpg",
+      "rating": 4.8,
+      "pricePerNight": 350
+    },
+    {
+      "id": "2",
+      "name": "Cusco Plaza Hotel",
+      "description": "Comfortable hotel in the heart of Cusco, perfect for exploring the city and nearby attractions.",
+      "imageUrl": "https://www.aranwahotels.com/files-sbbasic/ba_aranwasresortsspas_pe/aranwa-colca-espacios-02.jpg",
+      "rating": 4.5,
+      "pricePerNight": 120
+    },
+    {
+      "id": "3",
+      "name": "Sacred Valley Resort",
+      "description": "A peaceful resort surrounded by the beautiful landscapes of the Sacred Valley.",
+      "imageUrl": "https://www.aranwahotels.com/files-sbbasic/ba_aranwasresortsspas_pe/aranwa-sacred-valley-suite-familiar-03.jpg",
+      "rating": 4.7,
+      "pricePerNight": 200
+    },
+    {
+      "id": "4",
+      "name": "Lima Coast Hotel",
+      "description": "Modern hotel with ocean views, located in the Miraflores district of Lima.",
+      "imageUrl": "https://assets.minorhotels.com/image/upload/q_auto,f_auto,c_limit,w_1045/media/minor/nh/images/nhow-lima/mhg/destination-info/nhow_lima_room_suite-nhow_desing_bathroom_videogame-wall-944x510.jpg",
+      "rating": 4.3,
+      "pricePerNight": 180
+    }
+  ]
+}
