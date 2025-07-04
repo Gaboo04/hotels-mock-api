@@ -1,8 +1,37 @@
+const fs = require('fs')
+const path = require('path')
 const jsonServer = require('json-server')
 const server = jsonServer.create()
-const router = jsonServer.router('db.json')
+
+// Check if db.json exists and is readable
+const dbFile = path.join(__dirname, 'db.json')
+console.log(`Looking for database file at: ${dbFile}`)
+
+try {
+  fs.accessSync(dbFile, fs.constants.R_OK)
+  console.log('Database file found and is readable')
+} catch (err) {
+  console.error(`Error accessing database file: ${err.message}`)
+  // Create basic db.json if it doesn't exist
+  if (err.code === 'ENOENT') {
+    console.log('Creating basic db.json file')
+    const basicDb = { 
+      users: [], 
+      bookings: [], 
+      hotels: [] 
+    }
+    try {
+      fs.writeFileSync(dbFile, JSON.stringify(basicDb, null, 2))
+      console.log('Created basic db.json file')
+    } catch (writeErr) {
+      console.error(`Failed to create db.json: ${writeErr.message}`)
+    }
+  }
+}
+
+const router = jsonServer.router(dbFile)
 const middlewares = jsonServer.defaults({
-  static: './public'
+  static: false  // Disable static serving
 })
 
 // Set default middlewares (logger, static, cors and no-cache)
@@ -28,6 +57,24 @@ server.use((req, res, next) => {
   } else {
     next()
   }
+})
+
+// Add a health check endpoint
+server.get('/health', (req, res) => {
+  res.json({ status: 'UP', message: 'Server is running' })
+})
+
+// Add a root endpoint
+server.get('/', (req, res) => {
+  res.json({ 
+    message: 'Welcome to Hotels Mock API',
+    endpoints: {
+      hotels: '/hotels',
+      users: '/users',
+      bookings: '/bookings',
+      health: '/health'
+    }
+  })
 })
 
 // Use default router
