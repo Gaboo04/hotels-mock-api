@@ -1,232 +1,238 @@
 {
-    "id": "1",
-    "name": "Machu Picchu Sanctuary Lodge",
-    "description": "A unique hotel located at the entrance of Machu Picchu, offering breathtaking views and luxury amenities.",
-    "imageUrl": "https://img.belmond.com/f_auto/t_2580x3219/photos/mps/mps-din-breakfast09.jpg",
-    "rating": 4.8,
-    "pricePerNight": 350,
-    "country": "Peru",
-    "city": "Cusco",
-    "cityImageUrl": "https://images.stockcake.com/public/2/f/e/2fed9430-f31a-4121-9976-5c5afb0d102d_medium/llamas-at-machu-picchu-stockcake.jpg",
-    "popularity": 220,
-    "reviews": [
-      {
-        "userName": "Sophia L.",
-        "comment": "Absolutely incredible! The location can't be beaten, and the service was exceptional. Waking up to the views of Machu Picchu was a dream come true.",
-        "rating": 5
-      },
-      {
-        "userName": "David R.",
-        "comment": "A truly unique experience. While pricey, being so close to the ruins made it worth every penny. The food was also fantastic.",
-        "rating": 4
-      },
-      {
-        "userName": "Maria G.",
-        "comment": "Beyond expectations! The staff went above and beyond to make our stay perfect. A once-in-a-lifetime hotel stay right at the gates of wonder.",
-        "rating": 5
-      }
-    ]
-  },
-  {
-    "id": "2",
-    "name": "Cusco Plaza Hotel",
-    "description": "Comfortable hotel in the heart of Cusco, perfect for exploring the city and nearby attractions.",
-    "imageUrl": "https://www.aranwahotels.com/files-sbbasic/ba_aranwasresortsspas_pe/aranwa-colca-espacios-02.jpg",
-    "rating": 4.5,
-    "pricePerNight": 120,
-    "country": "Peru",
-    "city": "Cusco",
-    "cityImageUrl": "https://images.stockcake.com/public/2/f/e/2fed9430-f31a-4121-9976-5c5afb0d102d_medium/llamas-at-machu-picchu-stockcake.jpg",
-    "popularity": 125,
-    "reviews": [
-      {
-        "userName": "Carlos S.",
-        "comment": "Great central location, easy walk to Plaza de Armas. The staff was very helpful and the rooms were clean and comfortable.",
-        "rating": 4
-      },
-      {
-        "userName": "Emily W.",
-        "comment": "Perfect for a few nights in Cusco. Good value for money and a nice breakfast. Can be a bit noisy being so central.",
-        "rating": 3
-      },
-      {
-        "userName": "Juan P.",
-        "comment": "Charming hotel with traditional decor. Enjoyed my stay and would recommend it for its location and friendly service.",
-        "rating": 5
-      }
-    ]
-  },
-  {
-    "id": "3",
-    "name": "Sacred Valley Resort",
-    "description": "A peaceful resort surrounded by the beautiful landscapes of the Sacred Valley.",
-    "imageUrl": "https://www.aranwahotels.com/files-sbbasic/ba_aranwasresortsspas_pe/aranwa-sacred-valley-suite-familiar-03.jpg",
-    "rating": 4.7,
-    "pricePerNight": 200,
-    "country": "Peru",
-    "city": "Cusco",
-    "cityImageUrl": "https://images.stockcake.com/public/2/f/e/2fed9430-f31a-4121-9976-5c5afb0d102d_medium/llamas-at-machu-picchu-stockcake.jpg",
-    "popularity": 112,
-    "reviews": [
-      {
-        "userName": "Liam K.",
-        "comment": "An oasis of calm! The views of the Sacred Valley are stunning, and the amenities are top-notch. Highly recommend for relaxation.",
-        "rating": 5
-      },
-      {
-        "userName": "Olivia B.",
-        "comment": "Beautiful property and very peaceful. A great base for exploring the Sacred Valley. The pool area was lovely.",
-        "rating": 4
-      },
-      {
-        "userName": "Ben T.",
-        "comment": "Fantastic service and a tranquil setting. Food was excellent. A perfect getaway from the city.",
-        "rating": 5
-      }
-    ]
-  },
-  {
-    "id": "4",
-    "name": "Lima Coast Hotel",
-    "description": "Modern hotel with ocean views, located in the Miraflores district of Lima.",
-    "imageUrl": "https://assets.minorhotels.com/image/upload/q_auto,f_auto,c_limit,w_1045/media/minor/nh/images/nhow-lima/mhg/destination-info/nhow_lima_room_suite-nhow_desing_bathroom_videogame-wall-944x510.jpg",
-    "rating": 4.3,
-    "pricePerNight": 180,
-    "country": "Peru",
-    "city": "Lima",
-    "cityImageUrl": "https://instabus.com.pe/static/media/Lima_256x256px.32a181f9.jpg",
-    "popularity": 118,
-    "reviews": [
-      {
-        "userName": "Sofia V.",
-        "comment": "Modern hotel with great views of the Pacific. Miraflores is a fantastic area to stay, and this hotel is right in the middle of it all.",
-        "rating": 4
-      },
-      {
-        "userName": "Alex P.",
-        "comment": "Stylish and comfortable. The rooftop bar has amazing sunset views. Staff were efficient and helpful.",
-        "rating": 4
-      },
-      {
-        "userName": "Chloe M.",
-        "comment": "Good location for walking around Miraflores. Rooms were clean and spacious. Slightly noisy at night due to city traffic.",
-        "rating": 3
-      }
-    ]
-  },
-  {
-    "id": "5",
-    "name": "The Pearl",
-    "description": "An iconic luxury hotel in the heart of New York City, known for its elegant architecture and rich history.",
-    "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/5d/56/7b/the-pearl-hotel.jpg",
-    "rating": 4.7,
-    "pricePerNight": 1100,
-    "country": "United States",
-    "city": "New York City",
-    "cityImageUrl": "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/57302/square_thumb%402x.jpg",
-    "popularity": 350,
-    "reviews": [
-      {
-        "userName": "Emily C.",
-        "comment": "Staying at The Plaza was a dream come true! The service was impeccable, and the room was absolutely beautiful. A truly classic New York experience.",
-        "rating": 5
-      },
-      {
-        "userName": "James K.",
-        "comment": "The history and grandeur of this hotel are unmatched. While a bit expensive, it's worth it for the experience. The location is perfect for exploring the city.",
-        "rating": 4
-      },
-      {
-        "userName": "Olivia P.",
-        "comment": "An unforgettable stay. Every detail was perfect, from the luxurious amenities to the attentive staff. Highly recommend for a special occasion.",
-        "rating": 5
-      }
-    ]
-  },
-  {
-    "id": "6",
-    "name": "Burj Al Arab Jumeirah",
-    "description": "A seven-star luxury hotel in Dubai, famous for its distinctive sail-shaped design and opulent interiors.",
-    "imageUrl": "https://img.nh-hotels.net/BnZJ2j/yDDEzp/original/NH_Collection_Dubai_The_Palm_Pool_View_Evening.jpg",
-    "rating": 4.9,
-    "pricePerNight": 1500,
-    "country": "United Arab Emirates",
-    "city": "Dubai",
-    "cityImageUrl": "https://styles.redditmedia.com/t5_e24ag9/styles/communityIcon_yqbqdrhbnwre1.png",
-    "popularity": 400,
-    "reviews": [
-      {
-        "userName": "Mohammed A.",
-        "comment": "Beyond luxurious! The service was truly personalized, and the suites are breathtaking. A truly once-in-a-lifetime experience.",
-        "rating": 5
-      },
-      {
-        "userName": "Sarah M.",
-        "comment": "The epitome of luxury. Everything, from the dining to the private beach, was exceptional. It's an investment, but worth it.",
-        "rating": 5
-      },
-      {
-        "userName": "Ben S.",
-        "comment": "Incredible architecture and even more incredible service. You feel like royalty from the moment you arrive. Highly recommended for a splurge.",
-        "rating": 5
-      }
-    ]
-  },
-  {
-    "id": "7",
-    "name": "The Ritz Paris",
-    "description": "An exquisite palace hotel in the heart of Paris, renowned for its timeless elegance and impeccable service.",
-    "imageUrl": "https://www.kayak.com.pe/rimg/himg/5b/cc/8b/ice-100053252-0746998_3XL-452362.jpg",
-    "rating": 4.6,
-    "pricePerNight": 1200,
-    "country": "France",
-    "city": "Paris",
-    "cityImageUrl": "https://cdn.villaway.com/202303/images/56a9437be4b0898217844dd7/tn_ov8nx7jw67_202303.jpg",
-    "popularity": 300,
-    "reviews": [
-      {
-        "userName": "Isabella V.",
-        "comment": "Pure Parisian luxury! The service was extraordinary, and the hotel itself is a work of art. Perfect location for exploring Paris.",
-        "rating": 5
-      },
-      {
-        "userName": "Marc D.",
-        "comment": "A truly classic experience. The rooms are beautiful, and the staff anticipates your every need. An unforgettable stay in the city of lights.",
-        "rating": 4
-      },
-      {
-        "userName": "Sophie T.",
-        "comment": "From the moment we arrived, we felt incredibly pampered. The attention to detail is remarkable. Highly recommend for a romantic getaway.",
-        "rating": 5
-      }
-    ]
-  },
-  {
-    "id": "8",
-    "name": "The Taj Mahal Palace, Mumbai",
-    "description": "A historic and iconic luxury hotel in Mumbai, offering stunning views of the Arabian Sea and the Gateway of India.",
-    "imageUrl": "https://img1.advisor.travel/555x465px-Taj_Mahal_Palace_Tower_2.jpg",
-    "rating": 4.7,
-    "pricePerNight": 400,
-    "country": "India",
-    "city": "Mumbai",
-    "cityImageUrl": "https://images.stockcake.com/public/f/0/8/f08aa9b1-a775-4177-895c-9c79f254b480_medium/iconic-monument-twilight-stockcake.jpg",
-    "popularity": 280,
-    "reviews": [
-      {
-        "userName": "Priya S.",
-        "comment": "A true landmark of Mumbai. The history and grandeur are palpable, and the service is warm and attentive. A fantastic experience.",
-        "rating": 5
-      },
-      {
-        "userName": "Rahul K.",
-        "comment": "Beautiful hotel with a rich past. The rooms are comfortable, and the dining options are excellent. Great location near tourist attractions.",
-        "rating": 4
-      },
-      {
-        "userName": "Ananya R.",
-        "comment": "Exceptional hospitality! The staff went above and beyond to make our stay memorable. The views from the sea-facing rooms are stunning.",
-        "rating": 5
-      }
-    ]
-  }
+  "users":[],
+  "bookings":[],
+  "hotels": [
+    {
+      "id": "1",
+      "name": "Machu Picchu Sanctuary Lodge",
+      "description": "A unique hotel located at the entrance of Machu Picchu, offering breathtaking views and luxury amenities.",
+      "imageUrl": "https://img.belmond.com/f_auto/t_2580x3219/photos/mps/mps-din-breakfast09.jpg",
+      "rating": 4.8,
+      "pricePerNight": 350,
+      "country": "Peru",
+      "city": "Cusco",
+      "cityImageUrl": "https://images.stockcake.com/public/2/f/e/2fed9430-f31a-4121-9976-5c5afb0d102d_medium/llamas-at-machu-picchu-stockcake.jpg",
+      "popularity": 220,
+      "reviews": [
+        {
+          "userName": "Sophia L.",
+          "comment": "Absolutely incredible! The location can't be beaten, and the service was exceptional. Waking up to the views of Machu Picchu was a dream come true.",
+          "rating": 5
+        },
+        {
+          "userName": "David R.",
+          "comment": "A truly unique experience. While pricey, being so close to the ruins made it worth every penny. The food was also fantastic.",
+          "rating": 4
+        },
+        {
+          "userName": "Maria G.",
+          "comment": "Beyond expectations! The staff went above and beyond to make our stay perfect. A once-in-a-lifetime hotel stay right at the gates of wonder.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Cusco Plaza Hotel",
+      "description": "Comfortable hotel in the heart of Cusco, perfect for exploring the city and nearby attractions.",
+      "imageUrl": "https://www.aranwahotels.com/files-sbbasic/ba_aranwasresortsspas_pe/aranwa-colca-espacios-02.jpg",
+      "rating": 4.5,
+      "pricePerNight": 120,
+      "country": "Peru",
+      "city": "Cusco",
+      "cityImageUrl": "https://images.stockcake.com/public/2/f/e/2fed9430-f31a-4121-9976-5c5afb0d102d_medium/llamas-at-machu-picchu-stockcake.jpg",
+      "popularity": 125,
+      "reviews": [
+        {
+          "userName": "Carlos S.",
+          "comment": "Great central location, easy walk to Plaza de Armas. The staff was very helpful and the rooms were clean and comfortable.",
+          "rating": 4
+        },
+        {
+          "userName": "Emily W.",
+          "comment": "Perfect for a few nights in Cusco. Good value for money and a nice breakfast. Can be a bit noisy being so central.",
+          "rating": 3
+        },
+        {
+          "userName": "Juan P.",
+          "comment": "Charming hotel with traditional decor. Enjoyed my stay and would recommend it for its location and friendly service.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Sacred Valley Resort",
+      "description": "A peaceful resort surrounded by the beautiful landscapes of the Sacred Valley.",
+      "imageUrl": "https://www.aranwahotels.com/files-sbbasic/ba_aranwasresortsspas_pe/aranwa-sacred-valley-suite-familiar-03.jpg",
+      "rating": 4.7,
+      "pricePerNight": 200,
+      "country": "Peru",
+      "city": "Cusco",
+      "cityImageUrl": "https://images.stockcake.com/public/2/f/e/2fed9430-f31a-4121-9976-5c5afb0d102d_medium/llamas-at-machu-picchu-stockcake.jpg",
+      "popularity": 112,
+      "reviews": [
+        {
+          "userName": "Liam K.",
+          "comment": "An oasis of calm! The views of the Sacred Valley are stunning, and the amenities are top-notch. Highly recommend for relaxation.",
+          "rating": 5
+        },
+        {
+          "userName": "Olivia B.",
+          "comment": "Beautiful property and very peaceful. A great base for exploring the Sacred Valley. The pool area was lovely.",
+          "rating": 4
+        },
+        {
+          "userName": "Ben T.",
+          "comment": "Fantastic service and a tranquil setting. Food was excellent. A perfect getaway from the city.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Lima Coast Hotel",
+      "description": "Modern hotel with ocean views, located in the Miraflores district of Lima.",
+      "imageUrl": "https://assets.minorhotels.com/image/upload/q_auto,f_auto,c_limit,w_1045/media/minor/nh/images/nhow-lima/mhg/destination-info/nhow_lima_room_suite-nhow_desing_bathroom_videogame-wall-944x510.jpg",
+      "rating": 4.3,
+      "pricePerNight": 180,
+      "country": "Peru",
+      "city": "Lima",
+      "cityImageUrl": "https://instabus.com.pe/static/media/Lima_256x256px.32a181f9.jpg",
+      "popularity": 118,
+      "reviews": [
+        {
+          "userName": "Sofia V.",
+          "comment": "Modern hotel with great views of the Pacific. Miraflores is a fantastic area to stay, and this hotel is right in the middle of it all.",
+          "rating": 4
+        },
+        {
+          "userName": "Alex P.",
+          "comment": "Stylish and comfortable. The rooftop bar has amazing sunset views. Staff were efficient and helpful.",
+          "rating": 4
+        },
+        {
+          "userName": "Chloe M.",
+          "comment": "Good location for walking around Miraflores. Rooms were clean and spacious. Slightly noisy at night due to city traffic.",
+          "rating": 3
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "The Pearl",
+      "description": "An iconic luxury hotel in the heart of New York City, known for its elegant architecture and rich history.",
+      "imageUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/5d/56/7b/the-pearl-hotel.jpg",
+      "rating": 4.7,
+      "pricePerNight": 1100,
+      "country": "United States",
+      "city": "New York City",
+      "cityImageUrl": "https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/57302/square_thumb%402x.jpg",
+      "popularity": 350,
+      "reviews": [
+        {
+          "userName": "Emily C.",
+          "comment": "Staying at The Plaza was a dream come true! The service was impeccable, and the room was absolutely beautiful. A truly classic New York experience.",
+          "rating": 5
+        },
+        {
+          "userName": "James K.",
+          "comment": "The history and grandeur of this hotel are unmatched. While a bit expensive, it's worth it for the experience. The location is perfect for exploring the city.",
+          "rating": 4
+        },
+        {
+          "userName": "Olivia P.",
+          "comment": "An unforgettable stay. Every detail was perfect, from the luxurious amenities to the attentive staff. Highly recommend for a special occasion.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Burj Al Arab Jumeirah",
+      "description": "A seven-star luxury hotel in Dubai, famous for its distinctive sail-shaped design and opulent interiors.",
+      "imageUrl": "https://img.nh-hotels.net/BnZJ2j/yDDEzp/original/NH_Collection_Dubai_The_Palm_Pool_View_Evening.jpg",
+      "rating": 4.9,
+      "pricePerNight": 1500,
+      "country": "United Arab Emirates",
+      "city": "Dubai",
+      "cityImageUrl": "https://styles.redditmedia.com/t5_e24ag9/styles/communityIcon_yqbqdrhbnwre1.png",
+      "popularity": 400,
+      "reviews": [
+        {
+          "userName": "Mohammed A.",
+          "comment": "Beyond luxurious! The service was truly personalized, and the suites are breathtaking. A truly once-in-a-lifetime experience.",
+          "rating": 5
+        },
+        {
+          "userName": "Sarah M.",
+          "comment": "The epitome of luxury. Everything, from the dining to the private beach, was exceptional. It's an investment, but worth it.",
+          "rating": 5
+        },
+        {
+          "userName": "Ben S.",
+          "comment": "Incredible architecture and even more incredible service. You feel like royalty from the moment you arrive. Highly recommended for a splurge.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "The Ritz Paris",
+      "description": "An exquisite palace hotel in the heart of Paris, renowned for its timeless elegance and impeccable service.",
+      "imageUrl": "https://www.kayak.com.pe/rimg/himg/5b/cc/8b/ice-100053252-0746998_3XL-452362.jpg",
+      "rating": 4.6,
+      "pricePerNight": 1200,
+      "country": "France",
+      "city": "Paris",
+      "cityImageUrl": "https://cdn.villaway.com/202303/images/56a9437be4b0898217844dd7/tn_ov8nx7jw67_202303.jpg",
+      "popularity": 300,
+      "reviews": [
+        {
+          "userName": "Isabella V.",
+          "comment": "Pure Parisian luxury! The service was extraordinary, and the hotel itself is a work of art. Perfect location for exploring Paris.",
+          "rating": 5
+        },
+        {
+          "userName": "Marc D.",
+          "comment": "A truly classic experience. The rooms are beautiful, and the staff anticipates your every need. An unforgettable stay in the city of lights.",
+          "rating": 4
+        },
+        {
+          "userName": "Sophie T.",
+          "comment": "From the moment we arrived, we felt incredibly pampered. The attention to detail is remarkable. Highly recommend for a romantic getaway.",
+          "rating": 5
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "The Taj Mahal Palace, Mumbai",
+      "description": "A historic and iconic luxury hotel in Mumbai, offering stunning views of the Arabian Sea and the Gateway of India.",
+      "imageUrl": "https://img1.advisor.travel/555x465px-Taj_Mahal_Palace_Tower_2.jpg",
+      "rating": 4.7,
+      "pricePerNight": 400,
+      "country": "India",
+      "city": "Mumbai",
+      "cityImageUrl": "https://images.stockcake.com/public/f/0/8/f08aa9b1-a775-4177-895c-9c79f254b480_medium/iconic-monument-twilight-stockcake.jpg",
+      "popularity": 280,
+      "reviews": [
+        {
+          "userName": "Priya S.",
+          "comment": "A true landmark of Mumbai. The history and grandeur are palpable, and the service is warm and attentive. A fantastic experience.",
+          "rating": 5
+        },
+        {
+          "userName": "Rahul K.",
+          "comment": "Beautiful hotel with a rich past. The rooms are comfortable, and the dining options are excellent. Great location near tourist attractions.",
+          "rating": 4
+        },
+        {
+          "userName": "Ananya R.",
+          "comment": "Exceptional hospitality! The staff went above and beyond to make our stay memorable. The views from the sea-facing rooms are stunning.",
+          "rating": 5
+        }
+      ]
+    }
+  ]
+}
