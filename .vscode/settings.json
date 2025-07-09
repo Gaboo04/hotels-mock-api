@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.defaultWebAppToDeploy": "/subscriptions/54623f0d-390d-475a-8fd7-71077b6fada3/resourceGroups/UPC/providers/Microsoft.Web/sites/LogisticsMasters",
+    "appService.deploySubpath": "."
+}

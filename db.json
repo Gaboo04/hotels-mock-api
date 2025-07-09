@@ -17,17 +17,23 @@
         {
           "userName": "Sophia L.",
           "comment": "Absolutely incredible! The location can't be beaten, and the service was exceptional. Waking up to the views of Machu Picchu was a dream come true.",
-          "rating": 5
+          "rating": 5,
+          "profilePicture": "https://randomuser.me/api/portraits/women/12.jpg",
+          "ratingDate": "2025-05-15"
         },
         {
           "userName": "David R.",
           "comment": "A truly unique experience. While pricey, being so close to the ruins made it worth every penny. The food was also fantastic.",
-          "rating": 4
+          "rating": 4,
+          "profilePicture": "https://randomuser.me/api/portraits/men/33.jpg",
+          "ratingDate": "2025-04-22"
         },
         {
           "userName": "Maria G.",
           "comment": "Beyond expectations! The staff went above and beyond to make our stay perfect. A once-in-a-lifetime hotel stay right at the gates of wonder.",
-          "rating": 5
+          "rating": 5,
+          "profilePicture": "https://randomuser.me/api/portraits/women/45.jpg",
+          "ratingDate": "2025-06-10"
         }
       ]
     },
@@ -46,17 +52,23 @@
         {
           "userName": "Carlos S.",
           "comment": "Great central location, easy walk to Plaza de Armas. The staff was very helpful and the rooms were clean and comfortable.",
-          "rating": 4
+          "rating": 4,
+          "profilePicture": "https://randomuser.me/api/portraits/men/22.jpg",
+          "ratingDate": "2025-03-18"
         },
         {
           "userName": "Emily W.",
           "comment": "Perfect for a few nights in Cusco. Good value for money and a nice breakfast. Can be a bit noisy being so central.",
-          "rating": 3
+          "rating": 3,
+          "profilePicture": "https://randomuser.me/api/portraits/women/67.jpg",
+          "ratingDate": "2025-05-30"
         },
         {
           "userName": "Juan P.",
           "comment": "Charming hotel with traditional decor. Enjoyed my stay and would recommend it for its location and friendly service.",
-          "rating": 5
+          "rating": 5,
+          "profilePicture": "https://randomuser.me/api/portraits/men/55.jpg",
+          "ratingDate": "2025-06-05"
         }
       ]
     },
@@ -75,17 +87,23 @@
         {
           "userName": "Liam K.",
           "comment": "An oasis of calm! The views of the Sacred Valley are stunning, and the amenities are top-notch. Highly recommend for relaxation.",
-          "rating": 5
+          "rating": 5,
+          "profilePicture": "https://randomuser.me/api/portraits/men/36.jpg",
+          "ratingDate": "2025-02-20"
         },
         {
           "userName": "Olivia B.",
           "comment": "Beautiful property and very peaceful. A great base for exploring the Sacred Valley. The pool area was lovely.",
-          "rating": 4
+          "rating": 4,
+          "profilePicture": "https://randomuser.me/api/portraits/women/28.jpg",
+          "ratingDate": "2025-04-12"
         },
         {
           "userName": "Ben T.",
           "comment": "Fantastic service and a tranquil setting. Food was excellent. A perfect getaway from the city.",
-          "rating": 5
+          "rating": 5,
+          "profilePicture": "https://randomuser.me/api/portraits/men/18.jpg",
+          "ratingDate": "2025-05-25"
         }
       ]
     },
@@ -104,17 +122,23 @@
         {
           "userName": "Sofia V.",
           "comment": "Modern hotel with great views of the Pacific. Miraflores is a fantastic area to stay, and this hotel is right in the middle of it all.",
-          "rating": 4
+          "rating": 4,
+          "profilePicture": "https://randomuser.me/api/portraits/women/32.jpg",
+          "ratingDate": "2025-01-15"
         },
         {
           "userName": "Alex P.",
           "comment": "Stylish and comfortable. The rooftop bar has amazing sunset views. Staff were efficient and helpful.",
-          "rating": 4
+          "rating": 4,
+          "profilePicture": "https://randomuser.me/api/portraits/men/42.jpg",
+          "ratingDate": "2025-03-28"
         },
         {
           "userName": "Chloe M.",
           "comment": "Good location for walking around Miraflores. Rooms were clean and spacious. Slightly noisy at night due to city traffic.",
-          "rating": 3
+          "rating": 3,
+          "profilePicture": "https://randomuser.me/api/portraits/women/52.jpg",
+          "ratingDate": "2025-05-10"
         }
       ]
     },
@@ -133,17 +157,23 @@
         {
           "userName": "Emily C.",
           "comment": "Staying at The Plaza was a dream come true! The service was impeccable, and the room was absolutely beautiful. A truly classic New York experience.",
-          "rating": 5
+          "rating": 5,
+          "profilePicture": "https://randomuser.me/api/portraits/women/4.jpg",
+          "ratingDate": "2025-04-05"
         },
         {
           "userName": "James K.",
           "comment": "The history and grandeur of this hotel are unmatched. While a bit expensive, it's worth it for the experience. The location is perfect for exploring the city.",
-          "rating": 4
+          "rating": 4,
+          "profilePicture": "https://randomuser.me/api/portraits/men/8.jpg",
+          "ratingDate": "2025-05-22"
         },
         {
           "userName": "Olivia P.",
           "comment": "An unforgettable stay. Every detail was perfect, from the luxurious amenities to the attentive staff. Highly recommend for a special occasion.",
-          "rating": 5
+          "rating": 5,
+          "profilePicture": "https://randomuser.me/api/portraits/women/15.jpg",
+          "ratingDate": "2025-06-17"
         }
       ]
     },
@@ -162,17 +192,23 @@
         {
           "userName": "Mohammed A.",
           "comment": "Beyond luxurious! The service was truly personalized, and the suites are breathtaking. A truly once-in-a-lifetime experience.",
-          "rating": 5
+          "rating": 5,
+          "profilePicture": "https://randomuser.me/api/portraits/men/74.jpg",
+          "ratingDate": "2025-02-12"
         },
         {
           "userName": "Sarah M.",
           "comment": "The epitome of luxury. Everything, from the dining to the private beach, was exceptional. It's an investment, but worth it.",
-          "rating": 5
+          "rating": 5,
+          "profilePicture": "https://randomuser.me/api/portraits/women/83.jpg",
+          "ratingDate": "2025-03-30"
         },
         {
           "userName": "Ben S.",
           "comment": "Incredible architecture and even more incredible service. You feel like royalty from the moment you arrive. Highly recommended for a splurge.",
-          "rating": 5
+          "rating": 5,
+          "profilePicture": "https://randomuser.me/api/portraits/men/92.jpg",
+          "ratingDate": "2025-05-18"
         }
       ]
     },
@@ -191,17 +227,23 @@
         {
           "userName": "Isabella V.",
           "comment": "Pure Parisian luxury! The service was extraordinary, and the hotel itself is a work of art. Perfect location for exploring Paris.",
-          "rating": 5
+          "rating": 5,
+          "profilePicture": "https://randomuser.me/api/portraits/women/37.jpg",
+          "ratingDate": "2025-01-25"
         },
         {
           "userName": "Marc D.",
           "comment": "A truly classic experience. The rooms are beautiful, and the staff anticipates your every need. An unforgettable stay in the city of lights.",
-          "rating": 4
+          "rating": 4,
+          "profilePicture": "https://randomuser.me/api/portraits/men/47.jpg",
+          "ratingDate": "2025-03-15"
         },
         {
           "userName": "Sophie T.",
           "comment": "From the moment we arrived, we felt incredibly pampered. The attention to detail is remarkable. Highly recommend for a romantic getaway.",
-          "rating": 5
+          "rating": 5,
+          "profilePicture": "https://randomuser.me/api/portraits/women/57.jpg",
+          "ratingDate": "2025-06-02"
         }
       ]
     },
@@ -220,17 +262,23 @@
         {
           "userName": "Priya S.",
           "comment": "A true landmark of Mumbai. The history and grandeur are palpable, and the service is warm and attentive. A fantastic experience.",
-          "rating": 5
+          "rating": 5,
+          "profilePicture": "https://randomuser.me/api/portraits/women/63.jpg",
+          "ratingDate": "2025-02-28"
         },
         {
           "userName": "Rahul K.",
           "comment": "Beautiful hotel with a rich past. The rooms are comfortable, and the dining options are excellent. Great location near tourist attractions.",
-          "rating": 4
+          "rating": 4,
+          "profilePicture": "https://randomuser.me/api/portraits/men/69.jpg",
+          "ratingDate": "2025-04-17"
         },
         {
           "userName": "Ananya R.",
           "comment": "Exceptional hospitality! The staff went above and beyond to make our stay memorable. The views from the sea-facing rooms are stunning.",
-          "rating": 5
+          "rating": 5,
+          "profilePicture": "https://randomuser.me/api/portraits/women/73.jpg",
+          "ratingDate": "2025-06-22"
         }
       ]
     }
